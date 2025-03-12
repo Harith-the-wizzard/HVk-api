@@ -1,10 +1,10 @@
-Токен:vk1.a.7o6xNbklrWHlAtPQASoQ3zg4GsX0pooQySmZtHAAnFki0kjYIOhM3aDJHbXbrxObEokU4tj0GiPqLWf26eB8WTpvIWeBS1z3ZcU4brNhxCPn20Y9tXDF2kCB6I3qOVKUeWJZFWKL8Zv6MRmnlS8dMN9pacmF4VqCfcxdgcPUQW9imbWPeoxi3EmH99jF-zsJqznrxrW5GAbhjAbPwwgK3w|
-Общий чат:297|
-Архив:297|
-Чаты для баффов (отделять запятой с пробелом):297|
+Токен:|
+Общий чат:|
+Архив:|
+Чаты для баффов (отделять запятой с пробелом):|
 Сообщение для общего::
-reeting|
+|
 Сообщение для архива::
-Привет|
+|
 Ценники для общего чата::
-Пещерный корень - 150 золота|
+|
