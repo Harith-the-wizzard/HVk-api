@@ -1,0 +1,5 @@
+2025-03-11 14:29:41.977000 unsupported operand type(s) for +: 'dict' and 'int'
+2025-03-11 14:29:44.057828 unsupported operand type(s) for +: 'dict' and 'int'
+2025-03-11 14:29:46.112454 unsupported operand type(s) for +: 'dict' and 'int'
+2025-03-11 14:32:34.497430 unsupported operand type(s) for +: 'dict' and 'int'
+2025-03-11 14:32:36.514160 unsupported operand type(s) for +: 'dict' and 'int'
